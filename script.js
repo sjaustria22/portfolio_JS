@@ -51,7 +51,7 @@ ScrollReveal().reveal('.home-content p, .about-content, .about-content p, .skill
 
 // typed js //
 const typed = new Typed('.multiple-text', {
-    strings: ['Experienced Physiotherapist', 'Aspiring Web Developer'],
+    strings: ['Web Developer in the Making', 'Licensed Physiotherapist', 'Health and Wellness Advocate'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
